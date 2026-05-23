@@ -1,0 +1,25 @@
+# Raw data
+DATA/
+*.csv
+*.csv.gz
+*.geojson
+
+# Ignore generated CSV outputs, but keep HTML outputs
+outputs/*.csv
+outputs/*.csv.gz
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db

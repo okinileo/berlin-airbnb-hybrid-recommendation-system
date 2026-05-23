@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+folium
+scikit-learn
+scipy
+nltk
+textblob
+vaderSentiment
+ipykernel
+jupyter
+notebook
